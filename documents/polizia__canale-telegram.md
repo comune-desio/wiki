@@ -1,5 +1,7 @@
 # Città di Desio
 
+![Logo Città di Desio](https://raw.githubusercontent.com/comune-desio/wiki/master/documents/Logo%20Citta%CC%80%20di%20Desio.jpg)
+
 ## La Polizia Locale del Comune di Desio è su Telegram!
 
 ## Scopri e segui il nuovo canale.
@@ -35,6 +37,8 @@ cercando sempre di fornirti suggerimenti su comportamenti utili da adottare.
 ## Come faccio a seguire Polizia Locale Desio su Telegram?
 
 Dopo aver scaricato la app Telegram (v. sopra), clicca [qui](https://telegram.me/Polizia_Locale_Desio) e poi clicca su _"unisciti al canale"_ (in basso). Ogni volta che Polizia Locale Desio pubblica un aggiornamento, riceverai una notifica.
+
+![Istruzioni](https://raw.githubusercontent.com/comune-desio/wiki/master/documents/polizia__canale-telegram__istruzioni-1.jpg)
 
 ## A cosa serve il canale Telegram Polizia_Locale_Desio?
 
